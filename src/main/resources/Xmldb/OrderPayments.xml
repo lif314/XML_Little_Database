@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OrderPayments>
+  <OrderPayment> 
+    <orderPaymentId>734ed980-155c-4f47-ba8a-fe3220618aaf</orderPaymentId>  
+    <payMethod>1</payMethod>  
+    <payStatus>Paid</payStatus>  
+    <totalMoney>300.0</totalMoney>  
+    <paidMoney>0.0</paidMoney>  
+    <paidTime>2021-11-03T21:05:16.534</paidTime> 
+  </OrderPayment>
+</OrderPayments>

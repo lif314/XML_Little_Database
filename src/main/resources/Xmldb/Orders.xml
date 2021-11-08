@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Orders>
+  <Order> 
+    <orderId>900d5849-64a0-4fde-9e06-173fd437ee31</orderId>  
+    <buyerId>c481e837-3461-4e11-b68e-361e40b7233a</buyerId>  
+    <orderPaymentId>734ed980-155c-4f47-ba8a-fe3220618aaf</orderPaymentId>  
+    <buyerAddressId>8413ab51-a04a-4571-99a4-e3cd6ac8958b</buyerAddressId>  
+    <createTime>2021-11-03T21:05:16.535</createTime>  
+    <status>WAIT_DELIVER</status> 
+  </Order>
+</Orders>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BuyerAddresss>
+  <BuyerAddress>
+    <buyerAddressId>8413ab51-a04a-4571-99a4-e3cd6ac8958b</buyerAddressId>
+    <buyerId>c481e837-3461-4e11-b68e-361e40b7233a</buyerId>
+    <receiveName>llf</receiveName>
+    <receivePhone>18387400236</receivePhone>
+    <receiveAddress>Road 4800</receiveAddress>
+  </BuyerAddress>
+</BuyerAddresss>

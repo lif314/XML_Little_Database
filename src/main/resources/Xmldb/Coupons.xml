@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Coupons> 
+  <Coupon> 
+    <couponId>5baa35b7-e61a-4783-85b4-0f826a5e7205</couponId>  
+    <shopId>b3388015-b394-4cae-ab2c-154edd8ab8ea</shopId>  
+    <startTime>2021-10-30</startTime>  
+    <endTime>2021-11-11</endTime>  
+    <full>100</full>  
+    <minus>10</minus> 
+  </Coupon>  
+  <Coupon> 
+    <couponId>69e52f5e-9a86-43b1-9bcf-ec0b3b356ed1</couponId>  
+    <shopId>b3388015-b394-4cae-ab2c-154edd8ab8ea</shopId>  
+    <startTime>2021.11.3</startTime>  
+    <endTime>2022.5.3</endTime>  
+    <full>50</full>  
+    <minus>5</minus> 
+  </Coupon> 
+</Coupons>

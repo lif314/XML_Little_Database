@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Shops>
+  <Shop>
+    <shopId>b3388015-b394-4cae-ab2c-154edd8ab8ea</shopId>
+    <sellerId>83540ad1-c858-48e2-8717-0b9c5789bc27</sellerId>
+    <shopName>TMall Shop</shopName>
+    <creditScore>10</creditScore>
+    <category>综合</category>
+    <shopAddress>上海浦东</shopAddress>
+    <description>甄选好物 享你所想</description>
+  </Shop>
+</Shops>

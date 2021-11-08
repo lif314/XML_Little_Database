@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Commoditys> 
+  <Commodity> 
+    <commodityId>1f7c3228-0daf-45fd-ab8b-777583c3a8b7</commodityId>  
+    <shopId>b3388015-b394-4cae-ab2c-154edd8ab8ea</shopId>  
+    <price>100</price>  
+    <category>SHIRT</category>  
+    <storeNum>56</storeNum>  
+    <cname>7Wolf</cname>  
+    <description>Love yourself</description> 
+  </Commodity>
+</Commoditys>

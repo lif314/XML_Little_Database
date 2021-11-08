@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Activitys> 
+  <Activity> 
+    <activityId>009b5dd0-f0e5-4289-9e0d-d8760974c5a5</activityId>  
+    <startTime>2021-10-30</startTime>  
+    <endTime>2021-11-11</endTime>  
+    <activityName>双十一</activityName>  
+    <discount>0.90</discount> 
+  </Activity>
+</Activitys>

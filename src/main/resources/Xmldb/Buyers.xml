@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Buyers>
+  <Buyer>
+    <buyerId>c481e837-3461-4e11-b68e-361e40b7233a</buyerId>
+    <passwd>123321</passwd>
+    <idNumber>329232280330032</idNumber>
+    <phone>1838740036</phone>
+    <nickname>lif</nickname>
+    <gender>男</gender>
+    <birthday>2.6</birthday>
+  </Buyer>
+</Buyers>
